@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+groq
+python-dotenv
+matplotlib
+yfinance
+scikit-learn
+fpdf2
+textblob
+python-pptx
+gTTS
+audio-recorder-streamlit
