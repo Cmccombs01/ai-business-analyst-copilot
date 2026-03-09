@@ -1,4 +1,13 @@
-# 📊 AI Business Analyst Copilot
+🤖 AI Business Analyst Co-Pilot
+An autonomous AI agent engineered to streamline the data analysis lifecycle, from raw data ingestion to executive reporting.
+
+Core Capabilities:
+
+Autonomous Analysis: Automates complex data analysis and forecasting, significantly reducing the time required to generate business insights.
+
+Dynamic Reporting: Synthesizes structured data into clear, actionable reports without requiring manual dashboard configuration.
+
+Tech Stack: Python, LLM Integration, Data Processing Pipelines.
 
 An autonomous, voice-activated AI Agent designed to automate end-to-end business analysis. Built with Python and Streamlit, this Copilot leverages **Llama 3.3** for reasoning and **Whisper AI** for speech recognition to query databases, forecast trends, analyze sentiment, and generate executive deliverables.
 
